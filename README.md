@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @zeptemps
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-zeptemps/zeptemps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">  
+<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
+</p>
+<p align="center">
+    Zeptemps ?
+<p align="center">  
+<img src="https://komarev.com/ghpvc/?username=seanena&color=grey">
+</p>
+    <p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/881888876216586290.png"/>
+</p>
+<p align="center">
+Currently learning Python, C#, C++, HTML, CSS, Javascript, Lua
+<p align="center">
+    <a href="https://discord.gg/25HkaVvzp7">Discord</a>
