@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=zeptemps&color=grey">
 </p>
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/1153408855158571248.png"/>
+  <img src="https://discord.c99.nl/widget/theme-4/881888876216586290.png"/>
 </p>
 <p align="center">
 Currently learning Python, C#, C++, HTML, CSS, Javascript, Lua
