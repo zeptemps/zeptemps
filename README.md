@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://cdn.discordapp.com/attachments/1195288218111844372/1209549561987731526/ggez.gif?">
+<img src="https://i.imgur.com/h9Dr0sQ.gif">
 </p>
 <p align="center">
     her she chocolate ?
