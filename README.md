@@ -12,4 +12,4 @@
 <p align="center">
 Currently learning Python, C#, C++, HTML, CSS, Javascript, Lua
 <p align="center">
-    <a href="https://discord.gg/valueunt">Discord</a>
+    <a href="https://discord.gg/untvalue">Discord</a>
